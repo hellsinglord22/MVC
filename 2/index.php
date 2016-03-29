@@ -1,6 +1,6 @@
 <?php require("helpers.php"); ?>
 
-<?php renderHeader(["title => CS50"]); ?>
+<?php renderHeader(["title" => "CS50"]); ?>
 
 	<ul>
 		<li><a href="#">Lectures</a></li>
